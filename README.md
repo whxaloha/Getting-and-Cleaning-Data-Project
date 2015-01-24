@@ -13,6 +13,9 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 3.Steps
+
 a)download the raw data from the website that provided by the course, which is http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
 b)load all the requied data sets into R and follow each task required by this course. 
+
 c)run_analysis.R provides all the codes which need to finish all the tasks. 
